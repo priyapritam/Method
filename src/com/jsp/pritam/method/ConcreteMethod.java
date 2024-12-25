@@ -7,7 +7,7 @@ public class ConcreteMethod {
 	 */
 	
 	//Method Declaration
-	void start()
+	public void start()
 	{
 		// Method Implementation/logic/body/definition
 		System.out.println("Hello Pritam!!");
